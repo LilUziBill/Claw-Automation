@@ -1,0 +1,46 @@
+[10:09 PM, 3/13/2026] Liluzi: Claw Automation – Privacy Policy
+Effective: 14 March 2026
+Contact: clawautomation001@gmail.com
+
+1. Who We Are
+Claw Automation is operated by Uzziel (“we,” “us,” “our”) to automate uploads to Company-owned TikTok accounts.
+
+2. Information We Collect
+- TikTok account IDs and OAuth tokens provided during login.
+- Uploaded media files (videos, thumbnails, captions, hashtags).
+- System logs (timestamps, IP addresses, success/error codes).
+- Optional metadata you supply (post descriptions, scheduling notes).
+
+3. How We Use the Information
+- Authenticate with TikTok’s APIs or web interfaces.
+- Queue, upload, and publish videos on Company-owned accounts.
+- Detect failures, retries, or security issues.
+- Maintain auditing records required by TikTok policies.
+
+4. Legal Basis
+We process data for the Company’s legitimate business interests—operating official social channels—and to meet contractual obligations with TikTok.
+
+5. Sharing
+We do not sell or rent your data. Access is limited to Company staff and infrastructure providers (hosting, storage, proxy, logging) that support the service. All vendors are bound by confidentiality.
+
+6. Storage & Security
+Tokens and media are stored on secure servers with encryption at rest, role-based access, and network restrictions. Access is logged and reviewed regularly.
+
+7. Retention
+- OAuth tokens: retained until revoked or 90 days of inactivity.
+- Upload logs: retained for up to 180 days for compliance/debugging, then deleted.
+[10:09 PM, 3/13/2026] Liluzi: - Media: removed after successful publication unless needed for audits.
+
+8. Your Rights
+You may request access, correction, or deletion of stored data by emailing privacy@yourdomain.com. We will honor requests within applicable law.
+
+9. Children
+The service is not intended for individuals under 18.
+
+10. Changes
+If we update this Privacy Policy, we will adjust the “Effective” date and keep prior versions upon request.
+
+11. Contact
+Questions about privacy? Email clawautomation001@gmail.com
+
+```
